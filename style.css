@@ -1,0 +1,13 @@
+/* Universal selector  */
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* Overall WebPage  */
+.web{
+    height: 100vh;
+    background: black;
+}
+/* Overall WebPage  closes*/
